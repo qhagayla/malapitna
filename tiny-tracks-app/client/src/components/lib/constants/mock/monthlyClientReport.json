@@ -1,0 +1,50 @@
+[
+    {
+        "Clients": 100,
+        "month": "January"
+    },
+    {
+        "Clients": 150,
+        "month": "February"
+    },
+    {
+        "Clients": 200,
+        "month": "March"
+    },
+    {
+        "Clients": 180,
+        "month": "April"
+    },
+    {
+        "Clients": 220,
+        "month": "May"
+    },
+    {
+        "Clients": 250,
+        "month": "June"
+    },
+    {
+        "Clients": 300,
+        "month": "July"
+    },
+    {
+        "Clients": 280,
+        "month": "August"
+    },
+    {
+        "Clients": 320,
+        "month": "September"
+    },
+    {
+        "Clients": 350,
+        "month": "October"
+    },
+    {
+        "Clients": 380,
+        "month": "November"
+    },
+    {
+        "Clients": 400,
+        "month": "December"
+    }
+]
